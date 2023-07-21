@@ -1,3 +1,3 @@
-module github.com/Cgboal/DomainParser
+module github.com/Owatron/DomainParse
 
 go 1.16
