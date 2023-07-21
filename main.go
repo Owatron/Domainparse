@@ -2,7 +2,7 @@ package main
 
 import (
 	"bufio"
-	"github.com/Cgboal/DomainParser"
+	"github.com/Owatron/DomainParse"
 	"fmt"
 	"os"
 	"strings"
